@@ -38,6 +38,8 @@
 
 *Telegram:* https://t.me/chek_ess
 
+*Резюме*: https://career.habr.com/yanabonne
+
 ----
 
 ### Немного статистики
