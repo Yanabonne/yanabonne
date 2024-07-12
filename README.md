@@ -6,11 +6,11 @@
 
 ### Обо мне
 
-:woman_technologist: Middle Frontend Developer
+:woman_technologist: Frontend Developer
 
 :gear: Люблю структурный подход и стараюсь быть user-friendly
 
-:fire: Открыта новому, куда бы оно меня ни привело
+<!--- :fire: Открыта новому, куда бы оно меня ни привело -->
 
 :two_women_holding_hands: Кроме разработки интересуюсь HR-процессами, развитием команды и сотрудников :)
 
@@ -41,9 +41,11 @@
 
 *Резюме*: https://career.habr.com/yanabonne
 
-----
+<!--- ----
 
 ### Немного статистики
 
 ![Yanabonne's github stats](https://github-readme-stats.vercel.app/api?username=yanabonne&theme=material-palenight&layout=compact)
-![Yanabonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanabonne&theme=material-palenight&layout=compact)
+![Yanabonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanabonne&theme=material-palenight&layout=compact) -->
+
+
