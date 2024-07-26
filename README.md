@@ -40,11 +40,10 @@
 
 *Telegram:* https://t.me/chek_ess
 
-*Резюме*: https://career.habr.com/yanabonne
-
 <!--- ----
 
 ### Немного статистики
+*Резюме*: https://career.habr.com/yanabonne
 
 ![Yanabonne's github stats](https://github-readme-stats.vercel.app/api?username=yanabonne&theme=material-palenight&layout=compact)
 ![Yanabonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanabonne&theme=material-palenight&layout=compact) -->
